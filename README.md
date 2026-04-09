@@ -80,13 +80,8 @@ Detecting and classifying moving objects such as pedestrians, scooters, and bike
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=audy910&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/audy910  
 - LinkedIn: https://www.linkedin.com/in/audrey-r-3550a11a8/
+- Portfolio: https://audy910.github.io/
