@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering B.S. + M.S. student at the University of California, Riverside, focused on **embedded systems, robotics, and computer vision**.
 
-I like building systems where software has to interact with the physical world — from bare-metal motor control and sensor interfaces to autonomous navigation and edge computer vision.
+I like building systems where software has to interact with the physical world - from bare-metal motor control and sensor interfaces to autonomous navigation and edge computer vision.
 
 ## What I'm Building
 
