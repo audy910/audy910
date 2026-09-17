@@ -1,87 +1,53 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Audrey%20Reinhard&fontSize=40&fontColor=ffffff)
-
 # Hi, I'm Audrey 👋
 
-I'm a Computer Engineering student at the University of California, Riverside with interests in embedded systems, robotics, computer vision, and low-level system design.
+I'm a Computer Engineering B.S. + M.S. student at the University of California, Riverside, focused on **embedded systems, robotics, and computer vision**.
 
-I've had a passion for problem solving since a young age and have always been drawn to puzzles. Building systems that connect software and hardware feels like an endless challenge, and figuring out how to make those systems work reliably keeps me constantly learning and experimenting.
+I like building systems where software has to interact with the physical world — from bare-metal motor control and sensor interfaces to autonomous navigation and edge computer vision.
 
----
+## What I'm Building
 
-## 🚀 What I'm Interested In Building
+🤖 **Autonomous Robotics**
+ROS 2 navigation, sensor fusion, path planning, and real-time control
 
-- Autonomous robotics systems  
-- Embedded computer vision  
-- Edge AI systems for real-time perception  
-- Sensor fusion and navigation systems  
-- Low-level system software  
+⚙️ **Embedded Systems**
+Bare-metal C/C++, microcontrollers, communication protocols, motor control, and hardware interfaces
 
----
+👁️ **Computer Vision & Edge AI**
+Object detection, perception, embedded inference, and real-time vision systems
 
-## 🔧 Technologies & Tools
+## Featured Projects
 
-### 💻 Languages
-- C / C++
-- Python
-- Java
-- SQL
-- PHP
+### 🤖 Seeing-Eye Robot
 
-### 🤖 Embedded & Hardware
-- AVR Microcontrollers  
-- SPI / UART Communication  
-- PWM Motor & Servo Control  
-- Sensor Integration (Ultrasonic, IR, IMU, GPS)
+An autonomous service robot combining ROS 2, GPS/IMU sensing, computer vision, path planning, and embedded motor control.
 
-### 🧠 Software & Frameworks
-- OpenCV
-- ROS2
-- TensorFlow
-- TinyML
-- YOLO
-- Linux / Unix Systems
-- Git & GitHub
+**C · C++ · Python · ROS 2 · ESP32 · NavQPlus · Arduino · CAN · UART · OpenCV**
 
-### 🗄 Other Tools
-- Firebase
-- MySQL
-- Web Development Basics
+### 🧠 Oura Ring Tamagotchi
 
----
+A wearable-integrated embedded system combining an Oura Ring API, Raspberry Pi Pico, FPGA display hardware, SPI, and LVGL.
 
-## 🛠 Current Projects
+**C · Verilog · Raspberry Pi Pico · FPGA · SPI · LVGL**
 
-### 🤖 Autonomous Object-Avoiding Robot
-Developing a small autonomous robot designed for sidewalk navigation. The system integrates computer vision, ultrasonic sensors, and motion control to detect and avoid obstacles in real time while also using GPS and IMU data for path planning and navigation.
+### 🎮 Space Invaders AVR
 
-### 🎮 Embedded Game System
-Building a microcontroller-based game using an ST7735 LCD display, joystick input, and PWM audio.
+A bare-metal AVR game built from the ground up with an SPI LCD, joystick input, ADC, PWM audio, and a custom game loop.
 
-### 👁 Computer Vision Motion Detection
-Detecting and classifying moving objects such as pedestrians, scooters, and bikes using real-time computer vision techniques.
+**C · AVR · SPI · ADC · PWM**
 
----
+### 👁️ Computer Vision Motion Detection
 
-## 📚 Interests
+A real-time computer vision system for detecting and tracking pedestrians, cyclists, and scooters using YOLO and classical image-processing techniques.
 
-- Embedded Systems  
-- Robotics & Autonomous Navigation  
-- Computer Vision  
-- Low-Level System Design  
-- Edge Computing  
+**Python · YOLO · OpenCV · TensorFlow**
 
----
+## Currently Learning
 
-## 🌱 Currently Learning
+* Real-time robotics systems
+* Advanced computer vision
+* Path planning and navigation
+* Embedded and systems programming
 
-- Advanced computer vision techniques  
-- Real-time robotics systems  
-- Systems programming and kernel concepts  
+## Connect
 
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/audy910  
-- LinkedIn: https://www.linkedin.com/in/audrey-r-3550a11a8/
-- Portfolio: https://audy910.github.io/
+[Portfolio](https://audy910.github.io/) · [LinkedIn](https://www.linkedin.com/in/audrey-r-3550a11a8/)
